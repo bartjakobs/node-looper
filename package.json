@@ -1,0 +1,21 @@
+{
+  "name": "node-looper",
+  "version": "0.0.1",
+  "main": "lib/loop.js",
+  "description": "Realtime NodeJS looping machine",
+  "author": {
+    "name": "Bart Jakobs",
+    "email": "bartjakobs@gmail.com"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "devDependencies": {
+    "midi": ">= 0.9.4",
+    "keypress": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bartjakobs/node-looper"
+  }
+}
